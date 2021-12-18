@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Mariusrena
+- 👀 I’m interested in AI and Machine Learning
+- 🌱 I’m currently learning Python, Pytorch
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
